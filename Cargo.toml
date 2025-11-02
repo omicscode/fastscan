@@ -2,6 +2,11 @@
 name = "fastscan"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+authors = ["Gaurav Sablok <codeprog@icloud.com>"]
+description = "sam variant visualizer"
+homepage = "https://github.com/omicscode/fastscan"
+repository = "https://github.com/omicscode/fastscan"
 
 [dependencies]
 ratatui = "0.26"
