@@ -1,0 +1,2 @@
+# fastascan
+rust enabled fastascan
