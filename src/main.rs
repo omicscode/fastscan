@@ -27,6 +27,11 @@ struct FastaFile {
     lengths: Vec<usize>,
 }
 
+/*
+Gaurav Sablok
+codeprog@icloud.comcar
+*/
+
 struct App {
     files: Vec<FastaFile>,
     selected_file: usize,
